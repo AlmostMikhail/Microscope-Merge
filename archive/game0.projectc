@@ -10,7 +10,7 @@ title_as_file_name = MicroscopeMerge
 
 [display]
 width = 1080
-height = 1920
+height = 1280
 high_dpi = 1
 samples = 0
 fullscreen = 0
@@ -176,7 +176,7 @@ wasm_streaming = 0
 show_fullscreen_button = 0
 show_made_with_defold = 0
 show_console_banner = 1
-scale_mode = stretch
+scale_mode = downscale_fit
 transparent_graphics_context = 0
 
 [particle_fx]
