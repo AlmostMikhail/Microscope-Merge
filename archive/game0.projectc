@@ -1,6 +1,6 @@
 [project]
 title = Microscope Merge
-version = 0.6.0
+version = 1.0.0
 write_log = 1
 minimum_log_level = 1
 compress_archive = 1
@@ -176,7 +176,7 @@ wasm_streaming = 0
 show_fullscreen_button = 0
 show_made_with_defold = 0
 show_console_banner = 1
-scale_mode = stretch
+scale_mode = downscale_fit
 transparent_graphics_context = 0
 
 [particle_fx]
