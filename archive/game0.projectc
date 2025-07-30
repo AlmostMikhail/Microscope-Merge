@@ -9,8 +9,8 @@ developer = unnamed
 title_as_file_name = MicroscopeMerge
 
 [display]
-width = 720
-height = 1280
+width = 360
+height = 640
 high_dpi = 1
 samples = 0
 fullscreen = 0
